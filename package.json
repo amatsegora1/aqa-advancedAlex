@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advancedalex",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amatsegora1/aqa-advancedAlex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amatsegora1/aqa-advancedAlex/issues"
+  },
+  "homepage": "https://github.com/amatsegora1/aqa-advancedAlex#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
