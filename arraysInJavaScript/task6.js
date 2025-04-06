@@ -16,10 +16,10 @@ function arraySortingUsingCycle(array) {
     return array;
 }
 
-function arraySortingUsingSortMethod(array) {
-    array.sort((a, b) => a - b);
-    return array;
-}
+// function arraySortingUsingSortMethod(array) {
+//     array.sort((a, b) => a - b);
+//     return array;
+// }
 
 function displayArray(array) {
     for (let item of array) {
